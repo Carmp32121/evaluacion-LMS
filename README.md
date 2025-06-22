@@ -2,8 +2,6 @@
 Evaluación comparativa de plataformas 
 # Evaluación comparativa profesional de plataformas LMS
 
-# Evaluación comparativa profesional de plataformas LMS
-
 ## 📝 Resumen
 En esta reseña crítica se presenta una evaluación comparativa entre tres plataformas de gestión del aprendizaje (LMS): Moodle, Blackboard y Canvas. Se analizan sus funcionalidades, ventajas, desventajas y aportes al entorno educativo virtual desde una perspectiva pedagógica y tecnológica. El análisis evidencia que, si bien todas ofrecen soluciones robustas, cada una responde a necesidades particulares de instituciones y usuarios.
 
