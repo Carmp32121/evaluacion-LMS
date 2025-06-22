@@ -2,6 +2,8 @@
 Evaluación comparativa de plataformas 
 # Evaluación comparativa profesional de plataformas LMS
 
+# Evaluación comparativa profesional de plataformas LMS
+
 ## 📝 Resumen
 En esta reseña crítica se presenta una evaluación comparativa entre tres plataformas de gestión del aprendizaje (LMS): Moodle, Blackboard y Canvas. Se analizan sus funcionalidades, ventajas, desventajas y aportes al entorno educativo virtual desde una perspectiva pedagógica y tecnológica. El análisis evidencia que, si bien todas ofrecen soluciones robustas, cada una responde a necesidades particulares de instituciones y usuarios.
 
@@ -46,10 +48,10 @@ La transformación digital ha impulsado el uso de plataformas de gestión del ap
 Cada plataforma tiene sus fortalezas: Moodle destaca por su flexibilidad, Blackboard por su robustez institucional y Canvas por su usabilidad. La elección de una LMS dependerá de las necesidades educativas, el nivel de soporte requerido y los recursos disponibles. En el entorno actual, donde la educación híbrida y virtual es una constante, contar con un LMS adecuado es fundamental para el éxito académico.
 
 ## 📖 Referencias bibliográficas
-- Bates, A. W. (2019). *Teaching in a Digital Age* (2nd ed.). Tony Bates Associates Ltd.
-- Siemens, G. (2020). *Learning Analytics and LMS*. EDUCAUSE Review.
-- Universidad Nacional Autónoma de México (UNAM). (2023). Comparativa de plataformas LMS. https://lms.unam.mx/comparativa
+- Cabero, J., & Llorente, M. C. (2020). *Tecnologías de la información y la comunicación aplicadas a la educación*. Editorial Síntesis.
+- García Aretio, L. (2019). *Educación a distancia y virtual: Fundamentos*. Editorial Síntesis.
+- MoodleDocs. (2024). *Documentación oficial de Moodle*. https://docs.moodle.org/all/es
+- Blackboard. (2024). *Ayuda para estudiantes*. https://help.blackboard.com/es-es
+- Instructure. (2024). *Guía de usuario de Canvas*. https://community.canvaslms.com
 
----
 
-¿Te gustaría que este `README.md` lo prepare también como archivo descargable? ¿O quieres personalizar alguna sección antes de exportarlo?
